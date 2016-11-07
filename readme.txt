@@ -1,9 +1,3 @@
-~~hi,this is readme~
+hi,this is new readme 
 add second line
-
-oh ye
-
-s
-
-end of the world
 

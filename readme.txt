@@ -5,4 +5,5 @@ git has a mutable index called stage
 Hi
 
 1
+
 2
